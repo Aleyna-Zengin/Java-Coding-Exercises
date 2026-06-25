@@ -1,1 +1,1 @@
-For exercises change the branches.
+For exercises look at the folders
