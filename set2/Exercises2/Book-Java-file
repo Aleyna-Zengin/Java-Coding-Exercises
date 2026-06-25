@@ -1,0 +1,9 @@
+//Book.Java file
+
+package aleyna.zengin.java.exercises2;
+
+public class Book {
+	void read() {
+		System.out.println("Book has been read");
+	}
+}
